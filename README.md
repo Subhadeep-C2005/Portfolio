@@ -2,7 +2,7 @@
 
 A clean, responsive, and performance-optimized personal portfolio website to showcase my skills, projects, and milestones as a software developer. 
 
-🔗 **[View Live Site](YOUR_VERCEL_LINK_HERE)** 
+🔗 **[View Live Site](https://portfolio-taupe-nine-72.vercel.app)** 
 
 ## ✨ Features
 
@@ -26,11 +26,11 @@ Since this is a static website built with vanilla web technologies, running it l
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Subhadeep-C2005/YOUR-REPO-NAME.git](https://github.com/Subhadeep-C2005/YOUR-REPO-NAME.git)
+    git clone [https://github.com/Subhadeep-C2005/portfolio.git](https://github.com/Subhadeep-C2005/portfolio.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd YOUR-REPO-NAME
+    cd portfolio
     ```
 3.  **Open the site:**
     Simply double-click the `index.html` file to open it in your default web browser. Alternatively, you can use the VS Code "Live Server" extension for hot-reloading during development.
